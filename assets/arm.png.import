@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bvhu6qbsf3oqf"
-path="res://.godot/imported/spline_2d.png-e01686775502765cfeac178467882361.ctex"
+uid="uid://eidntlycbrlp"
+path="res://.godot/imported/arm.png-d0188e57afd32a6e104c1ec46c733da9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/splines/spline_2d.png"
-dest_files=["res://.godot/imported/spline_2d.png-e01686775502765cfeac178467882361.ctex"]
+source_file="res://assets/arm.png"
+dest_files=["res://.godot/imported/arm.png-d0188e57afd32a6e104c1ec46c733da9.ctex"]
 
 [params]
 

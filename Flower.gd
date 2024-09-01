@@ -153,5 +153,3 @@ func recalc()->void:
       leaf.pointy = leaf_pointy
       leaf.width = leaf_width
       dir *= -1
-
-
