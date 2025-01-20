@@ -27,7 +27,7 @@ movie_writer/movie_file="/Users/tripod/codez/games/splines/screen_recording.avi"
 
 [editor_plugins]
 
-enabled=PackedStringArray("res://addons/explore-editor-theme/plugin.cfg", "res://addons/splines/plugin.cfg")
+enabled=PackedStringArray("res://addons/explore-editor-theme/plugin.cfg", "res://addons/polygon-tools/plugin.cfg", "res://addons/splines/plugin.cfg")
 
 [input]
 

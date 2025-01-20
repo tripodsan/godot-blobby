@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dbg4d7h7pq0eo"
-path="res://.godot/imported/body.png-b8c73c77b587abd445085cbdae951373.ctex"
+uid="uid://cf7ot6ehni4ym"
+path="res://.godot/imported/eye.png-a84d27eb76574b804de06889c29718a8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/body.png"
-dest_files=["res://.godot/imported/body.png-b8c73c77b587abd445085cbdae951373.ctex"]
+source_file="res://assets/eye.png"
+dest_files=["res://.godot/imported/eye.png-a84d27eb76574b804de06889c29718a8.ctex"]
 
 [params]
 
@@ -23,7 +23,7 @@ compress/normal_map=0
 compress/channel_pack=0
 mipmaps/generate=false
 mipmaps/limit=-1
-roughness/mode=1
+roughness/mode=0
 roughness/src_normal=""
 process/fix_alpha_border=true
 process/premult_alpha=false
